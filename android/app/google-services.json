@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395734664725",
+    "project_id": "tyt-pro",
+    "storage_bucket": "tyt-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395734664725:android:7f12491c9dad5733c0f01c",
+        "android_client_info": {
+          "package_name": "com.session1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395734664725-nqbpo4saq4rf7hgolqhkbiq1027ni5uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltKuJo2dLAW9TfLL3xovkHumBdnE8guY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395734664725-nqbpo4saq4rf7hgolqhkbiq1027ni5uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
